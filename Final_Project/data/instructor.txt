@@ -1,0 +1,10 @@
+1720001|Will|Chang|will@uchicago.edu|12345
+1720002|Mark|Hayes|mark@uchicago.edu|12345
+1720003|Jeff|Page|jeff@uchicago.edu|12345
+1720004|Luke|Smith|luck@uchicago.edu|12345
+1720005|Isabella|Brown|isabella@uchicago.edu|12345
+1720006|Noah|Davis|noah@uchicago.edu|12345
+1720007|Alice|Wilson|alice@uchicago.edu|12345
+1720008|Monica|Moore|monica@uchicago.edu|12345
+1720009|Sarah|Taylor|sarah@uchicago.edu|12345
+1720010|Mark|Anderson|mark@uchicago.edu|12345

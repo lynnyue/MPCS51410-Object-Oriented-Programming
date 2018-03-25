@@ -1,0 +1,19 @@
+LOAD DATA
+	LOCAL INFILE "data\student"
+    REPLACE INTO TABLE student
+    FIELDS TERMINATED BY '|';
+
+LOAD DATA
+    LOCAL INFILE 'data\instructor'
+    REPLACE INTO TABLE instructor
+    FIELDS TERMINATED BY '|';
+    
+LOAD DATA
+    LOCAL INFILE 'data\course'
+    REPLACE INTO TABLE course
+    FIELDS TERMINATED BY '|';
+
+LOAD DATA
+    LOCAL INFILE 'data\roster'
+    REPLACE INTO TABLE roster
+    FIELDS TERMINATED BY '|';
