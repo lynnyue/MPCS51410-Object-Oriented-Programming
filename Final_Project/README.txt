@@ -1,5 +1,4 @@
 README
-Zhilin Yue
 MPCS 51410 Object Oriented Programming Final Project
 
 Part one: Introduction
